@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(9, 187, 241);
+}
+
+
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 100px;
+    margin: 10px;
+}
+
+
+img {
+    display: grid;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.contenedor {
+    max-width: 60%;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+    background-color: #3498db;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+   margin: 0 auto;
+}
